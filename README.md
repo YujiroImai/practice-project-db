@@ -1,1 +1,1 @@
-# practice-project-db
+# upsns-db
